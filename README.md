@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Catalog of My Things
 
 > A console app that will help to keep a record of different types of things: books, music albums, and games.
